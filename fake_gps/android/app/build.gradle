@@ -38,7 +38,8 @@ android {
         applicationId = "com.example.fake_gps"
         // You can update the following values to match your application needs.
         // For more information, see: https://docs.flutter.dev/deployment/android#reviewing-the-gradle-build-configuration.
-        minSdk = 20
+        minSdk = 21
+        targetSdkVersion 33
         targetSdk = flutter.targetSdkVersion
         versionCode = flutterVersionCode.toInteger()
         versionName = flutterVersionName

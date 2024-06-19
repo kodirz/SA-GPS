@@ -5,9 +5,9 @@
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
 
     <application
-        android:label="fake_gps"
+        android:label="SA GPS"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/sai">
         
         <meta-data
             android:name="com.google.android.geo.API_KEY"
